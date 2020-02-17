@@ -26,7 +26,7 @@ function submit(){
             }
             else{
                 document.getElementById('alert').innerHTML="Select gender to input message";
-                alert('alert');
+                a('alert');
             }
 
         }
