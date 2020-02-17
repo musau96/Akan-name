@@ -18,7 +18,7 @@ function submit(){
                    alert('alert');
                 }
                 else{
-                    document.getElementById('message').innerHTML=days[dayOfTheWeek]+femaleAkanNames[dayOfTheWeek];
+                    document.getElementById('alert').innerHTML=days[dayOfTheWeek]+femaleAkanNames[dayOfTheWeek];
                     alert('alert');
                 }
                 break;
