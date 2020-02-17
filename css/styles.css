@@ -1,3 +1,4 @@
+body{}
 .jumbotron{
     color:white;
     text-align: center;
@@ -5,4 +6,7 @@
 }
 .first{
     font-size:38px;
+}
+.form-group{
+    display: inline;
 }
