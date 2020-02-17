@@ -41,7 +41,7 @@ Javascript console
  Bugs normalry occur for diffrent reasons,If you find a bug kindly open an issue included your search history and issues
  please inlude all sample queries and result for easy debuging and quick response.
 
- ###### Link to live site
+ ## Link to live site [AKAN LINK](https://musau96.github.io/Akan-name/)
 
  ## Licesce[MINT]
  MIT License
