@@ -1,4 +1,8 @@
 .jumbotron{
-    width: 500px;
-    background-color: red !important;
+    color:white;
+    text-align: center;
+    background-color:#9c8b83;
+}
+.first{
+    font-size:38px;
 }
