@@ -1,0 +1,12 @@
+body{}
+.jumbotron{
+    color:white;
+    text-align: center;
+    background-color:#9c8b83;
+}
+.first{
+    font-size:38px;
+}
+.form-group{
+    display: inline;
+}
