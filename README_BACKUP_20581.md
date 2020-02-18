@@ -41,6 +41,9 @@ Javascript console
  Bugs normalry occur for diffrent reasons,If you find a bug kindly open an issue included your search history and issues
  please inlude all sample queries and result for easy debuging and quick response.
 
+<<<<<<< HEAD
+ ###### Link to live site
+=======
  ## Link to live site [AKAN LINK](https://musau96.github.io/Akan-name/)
 
  ## Licesce[MINT]
@@ -55,7 +58,7 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this    permission notice shall be included in all
+The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
@@ -65,3 +68,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+>>>>>>> master
