@@ -1,4 +1,9 @@
-body{}
+body{
+    text-align: center;
+    background-image: url("img/back.jpeg");
+    
+
+}
 .jumbotron{
     color:white;
     text-align: center;
@@ -7,6 +12,13 @@ body{}
 .first{
     font-size:38px;
 }
-.form-group{
-    display: inline;
+form{
+    display: inline-block;
+}
+footer{
+    background-color: cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+    width: 981px;
+    font-size:36px;
+    margin: 0 auto 8px;
 }

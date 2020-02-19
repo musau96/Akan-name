@@ -11,6 +11,7 @@
 </head>
 
 <body>
+    <!--jumbutron div-->
     <div class="jumbotron">
         <h1 class="display-3">AKAN NAMES</h1>
 
@@ -25,36 +26,35 @@
         <a class="btn btn-outline-primary btn-lg" href="https://en.wikipedia.org/wiki/Akan_names" target="_blank"
             role="button">Learn More</a>
     </div>
-  <!--card-->
-   <img src="img/akan.png" class ="img" alt="display akan">
+
+    <!--card-->
+    <img src="img/akan.png" class="img" alt="display akan">
+    <br>
+    <br>
+    <hr>
+    <br>
 
 
-    <!-- form-->
+    <!-- new feature form-->
     <form>
-        <div class="form-group">
-            <label for="enterDOB">ENTER DATE OF BIRTH</label>
-            <br>
-            <input type="date" id="inputdate" placeholder="INPUT YOUR MM/DD/YYYY">
-        </div>
+        <label>ENTER DATE OF BIRTH</label>
+        <input type="number" id="day" placeholder="Enter valid date of birth" class="form-control">
+        <br>
 
-        <div class="radio">
-            <label class="label">Male</label>
-            <input type="radio" name="gender" value="MALE">
-        </div>
-        <div class="radio">
-            <label class="label">Female</label> 
-            <input type="radio" name="gender" value="MALE">
-        </div>
-        <button class="btn btn-primary"  type="submit">SUBMIT</button>
-        <button class="btn btn-danger"  type="reset">RESET</button>
+        <label>Enter Month</label>
+        <input type="number" id="Month" placeholder="Enter the Month" class="form-control">
+        <br>
+        <label>Enter Year of Birth</label>
+        <input type="number" id="year" placeholder="Enter valid date of birth" class="form-control">
+        <br>
+        <button class="btn btn-primary" type="submit" onclick="output()">SUBMIT</button>
+        <button class="btn btn-danger" type="reset">RESET</button>
     </form>
 
-    <div class="this-is-your-akan-name">
-        <p id ="alert" class="output"></p>
-    </div>
+    <p id="outcome"></p>
+
+    <!--footer-->
+    <div class=" footer">© 2020 Copyright All Rights Reserved. MUSAU NZIOKA</div>
 </body>
-<div class="footer-copyright text-center py-3">© 2020 Copyright:
-  </div>
-  
 
 </html>
