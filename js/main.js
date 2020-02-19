@@ -1,4 +1,4 @@
-tion getAkanName(){
+function myFunction(){
     var name = document.getElementById("personName").value;
     var birthday = document.getElementById("personBirthday").value;
     console.log(birthday)
