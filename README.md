@@ -44,6 +44,7 @@ Javascript console
  ### Link to live site [AKAN LINK](https://musau96.github.io/Akan-name/)
 
  ## Licesce[MIT]
+
  MIT License
 
 Copyright (c) [2020] [MUSAU NZIOKA]
